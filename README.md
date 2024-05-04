@@ -13,6 +13,6 @@ To run the Magical Arena, you'll need a Java development environment installed o
 
 ### Running the Game
 
-1. Clone or download the project repository from [GitHub](#) (https://github.com/nitukumari34/SwiggyAssignment/tree/master).
-2. Navigate to the project directory in your terminal.
+1. Download the Zip folder and extract the files to the directory.
+2. Navigate to the open folder in intellij or eclipse and import the project.
 3. Compile the Java files using the run button in intellij.
